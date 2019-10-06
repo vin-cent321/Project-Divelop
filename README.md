@@ -1,5 +1,6 @@
 # Project-Divelop
 Team——DIVELOP:
+Contributors: Anne, Malik, Matt, Pierre & Vincent
 Project #1
 Idea: To provide an all in one resource center for introductory web developers.
 Featured points:
